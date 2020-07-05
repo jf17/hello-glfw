@@ -2,7 +2,7 @@
 
 ## install dependencies :
 ```bash
-sudo apt-get install libglfw3-dev freeglut3-dev libglew-dev -y
+sudo apt-get install g++ libglfw3-dev freeglut3-dev libglew-dev -y
 ```
 
 ## build :
